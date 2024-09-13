@@ -6,5 +6,5 @@ the platform X, formerly known as Twitter.
 In particular, we based our work on the HaSpeeDe31 shared task organized within Evalita 2023 with the same idea of putting importance to the identification of online hateful content in many fields.
 In particular, it is possible to summarize the main tasks of the project in:
 - exploratory analysis of tweets and user description using Topic Modeling technique;
-• hate speech detection via binary classification;
-• attempts to improve binary classification performance through target variable balancing and use of metadata.
+- hate speech detection via binary classification;
+- attempts to improve binary classification performance through target variable balancing and use of metadata.
